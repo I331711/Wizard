@@ -1,0 +1,23 @@
+{
+  "name": "wizard",
+  "version": "1.0.0",
+  "description": "Innvent Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I331711/WizardInnvent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/I331711/WizardInnvent/issues"
+  },
+  "homepage": "https://github.com/I331711/WizardInnvent#readme"
+}
